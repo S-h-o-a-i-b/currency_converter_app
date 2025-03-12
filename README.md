@@ -7,7 +7,7 @@ A *Flutter-based* mobile application that allows users to easily convert USD (Un
 ## *🏡 Home Screen*
 ![Home Screen](assets/images/img1.png)
 ## *🏡 Result Screen*
-![Home Screen](assets/images/img2.png)
+![Result Screen](assets/images/img2.png)
 
 # ✨ *Features*
 
